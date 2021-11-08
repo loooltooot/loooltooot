@@ -1,4 +1,5 @@
 # Privet, I'm Emir!
+![](giphy.gif)
 
 ```java
 public class Zakrewski {
